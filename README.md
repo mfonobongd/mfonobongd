@@ -1,4 +1,4 @@
-## Hey there! My name is Mfonobong Umondia. 
+## Hey there! My name is Mfonobong Umondia.  🇳🇬
 ### 👨🏻‍💻 About Me
 
 [Projects](mfonobong.dev) | [Resume](https://drive.google.com/drive/folders/1obEgfmF7f-hMTLq0ltqMhEISOzriC1U3?usp=drive_link) | [Twitter](https://x.com/the_ladybella) | [LinkedIn](https://www.linkedin.com/in/bellamfonobong/)
