@@ -5,11 +5,11 @@
 
 - 😄 Pronouns: She/Her
 - 🌱 Golang Developer and Technical Writer.
-- 👓 I create content on [YouTube](https://www.youtube.com/@mfonobong) and also own a [Blog](https://mfonobong.hashnode.dev/) where I write Technical Articles.
-- 💬 Ask me about Technical writing, Golang, and Developer Relations.
+- 👓 I create content on [YouTube](https://www.youtube.com/@mfonobong) and also own a [Blog](https://dev.to/thelady_bella) where I write Technical Articles.
+- 💬 Ask me about Technical writing, Golang, Community, and Program Management.
 - ⚡ Fun fact: I Have a bucket list filled with dream travel destinations.
 
-#### I am open to internship opportunities or Junior Golang Developer Roles. I am ready to relocate, too. 
+#### I am open to internship opportunities or Junior Golang Developer Roles. I am flexible with timezones and ready to relocate, too. 
 
 📫 You can reach me at umondiamfonobong@gmail.com.
 
