@@ -4,7 +4,7 @@
 [Portfolio](mfonobong.dev) | [Resume](https://drive.google.com/drive/folders/1obEgfmF7f-hMTLq0ltqMhEISOzriC1U3?usp=drive_link) | [Twitter](https://x.com/the_ladybella) | [LinkedIn](https://www.linkedin.com/in/bellamfonobong/)
 
 - 😄 Pronouns: She/Her
-- 🌱 Golang Developer and Technical Writer.
+- 🌱 Community Manager, Software Developer and Technical Writer.
 - 👓 I create content on [YouTube](https://www.youtube.com/@mfonobong) and also own a [Blog](https://dev.to/thelady_bella) where I write Technical Articles.
 - 💬 Ask me about Technical writing, Golang, Community, and Program Management.
 - ⚡ Fun fact: I Have a bucket list filled with dream travel destinations.
